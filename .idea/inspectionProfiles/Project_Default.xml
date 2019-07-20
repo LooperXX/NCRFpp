@@ -1,0 +1,8 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Erlang17Syntax" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="Erlang18Syntax" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ErlangDialyzerInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
